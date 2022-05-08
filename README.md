@@ -17,7 +17,7 @@ This analysis shows the relation between several drug treatments and tumor volum
 
 ![Box plot](Results/boxplot.png)
 
-1. Line plot showing tumor volume vs. time point for a mouse treated with Capomulin.
+1. Line plot showing tumor volume vs. time point for one mouse treated with Capomulin.
 
 ![Line Graph](Results/linegraph.png)
 
