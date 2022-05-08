@@ -9,14 +9,22 @@ This analysis shows the relation between several drug treatments and tumor volum
 
 1. Summary statistics for Tumor volume per drug regimen.
 
-1. Bar and Pie charts showing total number of timepoints for all mice tested for each drug regimen by using 2 different methods. 
+1. Bar charts showing total number of timepoints for all mice tested for each drug regimen by using 2 different methods. 
 
 ![Bar graph](Results/timeplots.png)
 
 1. Boxplot showing Tumor volumes in Capomulin, Ramicane, Infubinol and Ceftamin treated mice. 
 
+![Box plot](Results/boxplot.png)
+
 1. Line plot showing tumor volume vs. time point for a mouse treated with Capomulin.
+
+![Line Graph](Results/linegraph.png)
 
 1. A scatter plot of average tumor volume vs. mouse weight for the Capomulin regimen.
 
+![Scatter Plot](Results/scatterplot.png)
+
 1. A linear regression model for mouse weight and average tumor volume for the Capomulin regimen and the R square value and correlation cofficient.
+
+![Linear Regression](Results/rs2.png)
