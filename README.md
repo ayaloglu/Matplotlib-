@@ -5,7 +5,7 @@ This analysis shows the relation between several drug treatments and tumor volum
 
 ### The Jupyter notebook shows
 
-1.The data cleaning, i.e. removal of duplicates rows from the df.
+1. The data cleaning, i.e. removal of duplicates rows from the df.
 
 1. Summary statistics for Tumor volume per drug regimen.
 
