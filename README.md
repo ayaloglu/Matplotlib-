@@ -11,8 +11,7 @@ This analysis shows the relation between several drug treatments and tumor volum
 
 1. Bar and Pie charts showing total number of timepoints for all mice tested for each drug regimen by using 2 different methods. 
 
-![Screenshot](timeplots.png)
-
+![Bar graph](Results/timeplots.png)
 
 1. Boxplot showing Tumor volumes in Capomulin, Ramicane, Infubinol and Ceftamin treated mice. 
 
