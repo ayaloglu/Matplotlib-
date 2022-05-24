@@ -1,4 +1,4 @@
-# Using Matplotlip and Pandas to analyze pharmaceutical study result
+# Using Matplotlib and Pandas to analyze pharmaceutical study result
 ## Health data analysis
 
 This analysis shows the relation between several drug treatments and tumor volume in mice. According to the results Capomulin and Ramicane were the most effective drugs in shrinking the tumor volume in mice tested. Infubinol, and Ceftamin were not as effective as capomulin and Ramicane in shrinking the tumor volume in mice tested. There seems to be a pozitive correlation between Mouse weight and average tumor volume Naftisol and Stelasyn had effects similar to placebo, making them the least effective drugs amongst the drugs that were studied in this research.
